@@ -1,0 +1,33 @@
+﻿<OMRReadResult>
+    <AttendanceData>
+        <ClassName>304</ClassName>
+        <DateTime>2012/8/15</DateTime>
+        <Attendance SeatNo="1"/>
+        <Attendance SeatNo="2"/>
+        <Attendance SeatNo="3"/>
+        <Attendance SeatNo="7">
+            <Period Name="三" Reason="曠課"/>
+            <Period Name="五" Reason="曠課"/>
+        </Attendance>
+        <Attendance SeatNo="15"/>
+        <Attendance SeatNo="17"/>
+        <Attendance SeatNo="18"/>
+        <Attendance SeatNo="20"/>
+        <Attendance SeatNo="24"/>
+        <Attendance SeatNo="27"/>
+        <Attendance SeatNo="28">
+            <Period Name="二" Reason="遲到"/>
+            <Period Name="降旗" Reason="遲到"/>
+        </Attendance>
+        <Attendance SeatNo="30"/>
+        <Attendance SeatNo="31"/>
+        <Attendance SeatNo="32"/>
+        <Attendance SeatNo="40">
+            <Period Name="一" Reason="曠課"/>
+            <Period Name="二" Reason="曠課"/>
+            <Period Name="三" Reason="曠課"/>
+            <Period Name="五" Reason="曠課"/>
+            <Period Name="六" Reason="曠課"/>
+        </Attendance>
+    </AttendanceData>
+</OMRReadResult>
